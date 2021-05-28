@@ -1,0 +1,1 @@
+const test  ="fooo" // define string
